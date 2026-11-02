@@ -108,15 +108,6 @@ interests:
 </div>
 
 ---
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| 🏦 [**Bank Management System**](https://github.com/GAJJAR-DAKSH/Bank-Management-System) | A Java desktop application that simulates basic ATM banking operations, including account creation, login using card number and PIN, deposits, and withdrawals. | Java |
-| 🐾 [**Pixel-Paw-Patrol**](https://github.com/GAJJAR-DAKSH/Pixel-Paw-Patrol) | An AI-powered web platform that enables students and volunteers to report, track, and rescue stray dogs on campus using live maps and coordinated responses. | JavaScript |
-| 🌱 [**GREEN-ERA**](https://github.com/GAJJAR-DAKSH/GREEN-ERA) | An eco-friendly website showcasing sustainable products made from natural materials such as wood, bamboo, coconut, and soil. | HTML, CSS |
-| 📚 [**Digital Library Management System**](https://github.com/GAJJAR-DAKSH/digital-library-flask) | A Flask-based digital library application for managing books, borrowing and returning books, and sharing reviews, using Queue and Linked List data structures. | Python, Flask, HTML, CSS |
-
 
 ### 🏆 Achievements & Community
 
